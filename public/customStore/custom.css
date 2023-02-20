@@ -1,0 +1,10 @@
+.custom_img{
+    max-width: 80%;
+    width: 250px;
+    height: 250px;
+    margin: 50px;
+  }
+.custom_img_detail{
+  max-width: 60%;
+  margin-left: 124px;
+}
